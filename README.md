@@ -1,4 +1,4 @@
-# Java Programs Repository
+# OOP - Java
 
 Welcome to the Java Programs Repository! This repository contains a collection of Java programs that I come accross as I cover various topics and concepts in Java programming. 
 
