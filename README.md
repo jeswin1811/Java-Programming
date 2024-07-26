@@ -13,8 +13,7 @@ Welcome to the Java Programs Repository! This repository contains a collection o
 
 ## Introduction
 
-![5ff3e97ef325168e82b4cc3f397d8a79](https://github.com/user-attachments/assets/20444629-cc5c-46be-8a4b-3d9b1232fde6)
-
+![5ff3e97ef325168e82b4cc3f397d8a79](https://github.com/user-attachments/assets/b2517712-09c6-4644-b2df-c6e40adf4b8d)
 
 This repository aims to provide a comprehensive set of Java programs that can be used for learning and reference purposes. This is my journey as a beginner in java programming, you'll find useful examples and code snippets to enhance your understanding of Java.
 
