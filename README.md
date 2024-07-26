@@ -6,8 +6,7 @@ Ensure you have Java Development Kit (JDK) installed on your system. You can dow
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Setup](#setup)
-- [Usage](#usage)
+- [Programs](#programs)
 - [Contact](#contact)
 
 ## Introduction
@@ -23,5 +22,5 @@ This repository aims to provide a comprehensive set of Java programs that can be
 
 ## Contact
 
-Email - jeswintj16@gmail.com
-[LinkedIn](https://www.linkedin.com/in/jeswin-thampichan-joseph-4ba542204/)
+- Email - jeswintj16@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jeswin-thampichan-joseph-4ba542204/)
