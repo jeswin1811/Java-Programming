@@ -1,4 +1,4 @@
-# OOP - Java
+# Java Programming
 
 Welcome to the Java Programs Repository! This repository contains a collection of Java programs that I come accross as I cover various topics and concepts in Java programming. 
 Ensure you have Java Development Kit (JDK) installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
