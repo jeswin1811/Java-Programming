@@ -19,6 +19,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 
 1. [Hello World](hello.java)
 2. [Basic Arithmetic Operations](BasicArithmetic.java)
+3. [Sum and Average of 3 numbers without using I/O](sumAvg.java)
 
 ## Contact
 
