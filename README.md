@@ -22,6 +22,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 3. [Sum and Average of 3 numbers without using I/O](sumAvg.java)
 4. [Area of a rectangle without using I/O](areaRectangle.java)
 5. [Area of a circle without using I/O](areaCircle.java)
+6. [Square of a number using console](Square.java)
 
 ## Contact
 
