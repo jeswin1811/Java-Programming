@@ -24,7 +24,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 5. [Area of a circle without using I/O](areaCircle.java)
 6. [Square of a number using console](Square.java)
 7. [Sum and Average of a number using console](SumAvgUsingConsole.java)
-8. [To check wether a given number is a palindrome or nor](palindrome.java)
+8. [To check wether a given number is a palindrome or not](palindrome.java)
 
 ## Contact
 
