@@ -10,8 +10,10 @@
  *                 without using I/O.
  ***********************************************************************************/
 
+import java.util.Scanner;
  public class sumAvg {
     public static void main(String[] args){
+     Scanner obj1 = new Scanner();
         float a=23.24f,b=5.75f,c=23.46f,sum,avg;
         sum = a+b+c;
         avg = sum/3;
