@@ -7,7 +7,8 @@
  *    Date: 2024-08-04
  *
  *    Description: This is a java program to check wether an entered string is a 
- *                 palindrome or not.
+ *                 palindrome or not.(please enter string in either full uppercase or
+ *                 lower case )
  ***********************************************************************************/
 import java.util.Scanner;
 public class StringPalindrome{
