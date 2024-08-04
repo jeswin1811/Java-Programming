@@ -26,6 +26,8 @@ This repository aims to provide a comprehensive set of Java programs that can be
 7. [Sum and Average of a number using console](SumAvgUsingConsole.java)
 8. [To check wether a given number is a palindrome or not](palindrome.java)
 9. [To print the first 'n' numbers using a for loop](FirstNdigitsUsingFor.java)
+10. [To print the first 'n' numbers using a while loop](FirstNdigitsUsingWhile.java)
+11. [To check wether a given string is a palindrome or not](StringPalindrome.java)
 
 ## Contact
 
