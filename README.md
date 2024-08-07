@@ -29,6 +29,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 10. [To print the first 'n' numbers using a while loop](FirstNdigitsUsingWhile.java)
 11. [To check wether a given string is a palindrome or not](StringPalindrome.java)
 12. [To check the frequency of a character in a string](CharFreq.java)
+13. [To add any two matrices](MatrixAddition.java)
 
 ## Contact
 
