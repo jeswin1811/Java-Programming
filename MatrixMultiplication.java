@@ -27,6 +27,9 @@ public class MatrixMultiplication {
             r2 = input.nextInt();
             System.out.println("Number of columns: ");
             c2 = input.nextInt();
+            if(c1!=r2){
+                System.out.println("Please check the order of your matrices.");
+            }
         }while(c1!=r2);
         System.out.println("Enter the elements of first matrix: ");
         for(i=0;i<r1;i++){
@@ -73,4 +76,3 @@ public class MatrixMultiplication {
         }
     } 
 }
-
