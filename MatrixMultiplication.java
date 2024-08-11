@@ -15,19 +15,8 @@ public class MatrixMultiplication {
         int[][] a = new int[40][40];
         int[][] b = new int[40][40];
         int[][] c = new int[40][40];
-        int i,j,k,r1,c1,r2,c2,n;
-        System.out.println("Enter the order of first matrix: ");
-        System.out.println("Number of rows: ");
-        r1 = input.nextInt();
-        System.out.println("Number of columns: ");
-        c1 = input.nextInt();
-        System.out.println("Enter the order of the second matrix: ");
-        System.out.println("Number of rows: ");
-        r2 = input.nextInt();
-        System.out.println("Number of columns: ");
-        c2 = input.nextInt();
-        while(c1!=r2){
-            System.out.println("MATRIX MULTIPLICATION NOT POSSIBLE (Please check the order of your matrix)");
+        int i,j,k,r1,c1,r2,c2;
+        do{
             System.out.println("Enter the order of first matrix: ");
             System.out.println("Number of rows: ");
             r1 = input.nextInt();
@@ -38,7 +27,7 @@ public class MatrixMultiplication {
             r2 = input.nextInt();
             System.out.println("Number of columns: ");
             c2 = input.nextInt();
-        }
+        }while(c1!=r2);
         System.out.println("Enter the elements of first matrix: ");
         for(i=0;i<r1;i++){
             for(j=0;j<c1;j++){
@@ -84,3 +73,4 @@ public class MatrixMultiplication {
         }
     } 
 }
+
