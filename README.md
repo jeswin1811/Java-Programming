@@ -31,6 +31,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 12. [To check the frequency of a character in a string](CharFreq.java)
 13. [To add any two matrices](MatrixAddition.java)
 14. [To multiply any two matrices](MatrixMultiplication.java)
+15. [To check wether a given matrix is symmetric or not](MatrixSymmetry.java)
 
 ## Contact
 
