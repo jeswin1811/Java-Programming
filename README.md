@@ -32,7 +32,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 13. [To add any two matrices](MatrixAddition.java)
 14. [To multiply any two matrices](MatrixMultiplication.java)
 15. [To check whether a given matrix is symmetric or not](MatrixSymmetry.java)
-16. [To check whether a person is eligible to vote or not by creating an object](VoteEligibilityCheck.java)
+16. [To check whether a person is eligible to vote or not by creating an object](VoteEligibilityObject.java)
 
 ## Contact
 
