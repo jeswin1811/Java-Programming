@@ -38,6 +38,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 19. [To show how multilevel inheritance can be achieved in java](MultiLevelInheritance.java)
 20. [To show how constructor overloading can be achieved in java](ConstructorOverloading.java)
 21. [Application of Hierarchical Inheritance](HierInheritance.java)
+22. [Concept of Method Overriding](MethodOverriding.java)
 
 ## Contact
 
