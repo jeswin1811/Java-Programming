@@ -1,4 +1,3 @@
-package matrix;
 import java.util.Scanner;
 class AgeException extends Exception{
 	public AgeException(String message) {
