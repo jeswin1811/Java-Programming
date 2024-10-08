@@ -1,3 +1,14 @@
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: Exception Handling
+ *    Date: 2024-10-07
+ *
+ *    Description: This is a java program to implement exception handling using try-
+ *                 catch-finally.
+ ***********************************************************************************/
 import java.util.Scanner;
 public class ExceptionHandling {
     public static void main(String[] args) {
