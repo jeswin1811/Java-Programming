@@ -1,3 +1,14 @@
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: Read contents of a file through console.	
+ *    Date: 2024-10-07
+ *
+ *    Description: This is a java program to read the contents of a file through a 
+ *		   console.
+ ***********************************************************************************/
 package matrix;
 import java.io.*;
 import java.util.*;
