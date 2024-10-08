@@ -1,4 +1,4 @@
-package matrix;
+package oopsjava;
 import java.io.*;
 import java.util.*;
 public class CopyAndDisplay {
@@ -38,8 +38,8 @@ public class CopyAndDisplay {
 			
 			FileReader myreader = new FileReader("Sample2.txt");
 			Scanner sc = new Scanner(myreader);
-			String line;
-			while((line=sc.nextLine()) != null) {
+			while(sc.hasNextLine()) {
+				String line = sc.nextLine();
 				System.out.println(line);
 			}
 			sc.close();
