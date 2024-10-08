@@ -1,3 +1,13 @@
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: Custom Exception	
+ *    Date: 2024-10-07
+ *
+ *    Description: This is a java program to create a custom exception.
+ ***********************************************************************************/
 import java.util.Scanner;
 class AgeException extends Exception{
 	public AgeException(String message) {
