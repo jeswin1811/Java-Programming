@@ -1,3 +1,14 @@
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: Copy contents from one file to another	
+ *    Date: 2024-10-07
+ *
+ *    Description: This is a java program to copy the contents from one file to
+ *	           another.
+ ***********************************************************************************/
 package matrix;
 import java.io.*;
 
