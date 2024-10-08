@@ -1,5 +1,7 @@
 # Java Programming
 
+![pngwing com](https://github.com/user-attachments/assets/1a88833b-1541-4b5e-b47f-4db9c19914c5)
+
 Welcome to the Java Programs Repository! This repository contains a collection of Java programs that I come accross as I cover various topics and concepts in Java programming. 
 Ensure you have Java Development Kit (JDK) installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
@@ -10,8 +12,6 @@ Ensure you have Java Development Kit (JDK) installed on your system. You can dow
 - [Contact](#contact)
 
 ## Introduction
-
-![pngwing com](https://github.com/user-attachments/assets/1a88833b-1541-4b5e-b47f-4db9c19914c5)
 
 This repository aims to provide a comprehensive set of Java programs that can be used for learning and reference purposes. This is my journey as a beginner in java programming, you'll find useful examples and code snippets to enhance your understanding of Java.
 
