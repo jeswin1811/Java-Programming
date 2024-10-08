@@ -1,3 +1,15 @@
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: File Handling		
+ *    Date: 2024-10-07
+ *
+ *    Description: This is a java program to create two files, write to the first 
+ *		   file and then copy the content from first file to second file
+ *		   and then read the copied content from second file through console.
+ ***********************************************************************************/
 package oopsjava;
 import java.io.*;
 import java.util.*;
