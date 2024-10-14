@@ -1,4 +1,22 @@
-package matrix;
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: FileWriter and FileReader class		
+ *    Date: 2024-10-14
+ *
+ *    Description: Create a file Register1.txt.
+ *     Give user input (your KEAM rank number) to this file using scanner
+ *     class.
+ *     Write the data to the created file.
+ *     Then read the contents of the file(use stream class BufferedReader).
+ *     Display the contents of the file Register1.txt in the console
+ *     window.
+ *     (for writing purpose use FileWriter class and reading purpose use,
+ *     FileReader class)
+ *     Handle File related exceptions also.
+ ***********************************************************************************/
 import java.io.*;
 public class UserReadDisplay {
 	public static void main(String[] args) {
