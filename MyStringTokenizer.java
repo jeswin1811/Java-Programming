@@ -1,4 +1,15 @@
-package matrix;
+/***********************************************************************************
+ *                         Jeswin Thampichan Joseph
+ *            Computer Science and Engineering Student, SJCET, Palai
+ *                        Email: jeswintj16@gmail.com
+ *
+ *    Project Title: FileWriter and FileReader class		
+ *    Date: 2024-10-14
+ *
+ *    Description: Write a Java program that reads a line of integers, and then 
+ *		   displays each integer, and the sum of all the integers 
+ *                  (Use String Tokenizer class of java.util).
+ ***********************************************************************************/
 import java.io.*;
 import java.util.*;
 public class  MyStringTokenizer {
