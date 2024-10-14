@@ -46,6 +46,7 @@ This repository aims to provide a comprehensive set of Java programs that can be
 29. [Copy contents from one file to another](CopyFile.java)
 30. [Read contents of a file through console](ReadFile.java)
 31. [File Handling (create, write, copy and read)](CopyAndDisplay.java)
+32. [Take user input and write to file and display the contents from file (using FileReader and FileWriter class](UserReadDisplay.java)
 
 
 ## Contact
